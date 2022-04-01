@@ -3,3 +3,4 @@ if hungry=='yes':
     print('eat raw chicken')
 else:
     print('do your homework')
+
